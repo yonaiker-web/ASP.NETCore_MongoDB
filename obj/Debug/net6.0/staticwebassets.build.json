@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "u7eC7az9dgwMe2Y0GcnUjW1nnTCFLaMkCzdBgBogel4=",
+  "Source": "net-mongodb",
+  "BasePath": "_content/net-mongodb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
